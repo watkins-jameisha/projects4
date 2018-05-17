@@ -1,0 +1,23 @@
+.form {
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.form input {
+    display: block;
+}
+
+.form button {
+    display: block;
+}
+
+.button[disabled] {
+    background-color: red;
+}
+
+.button {
+    background-color: green;
+    color: white;
+}
